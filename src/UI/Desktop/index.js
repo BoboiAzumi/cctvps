@@ -39,7 +39,7 @@ class Desktop extends React.Component{
                             </select>
                         </div>
                         <div className="flex justify-center">
-                            <iframe src={this.state.frame} className="w-full aspect-video mx-40 mb-16" scrolling='no'>
+                            <iframe src={this.state.frame} className="w-full aspect-video mx-40 mb-16" scrolling='no' allowFullScreen={true}>
                             </iframe>
                         </div>
                     </div>
