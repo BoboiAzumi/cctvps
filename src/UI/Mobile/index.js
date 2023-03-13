@@ -33,8 +33,8 @@ class Mobile extends React.Component{
                                 <option value="https://g3.ipcamlive.com/player/player.php?alias=63a5320ed7dc7">CCTV 1 Simpang Rambung Merah</option>
                                 <option value="https://g3.ipcamlive.com/player/player.php?alias=63a4712f09d09">CCTV 2 Simpang Dua</option>
                                 <option value="https://g3.ipcamlive.com/player/player.php?alias=63a46f24d0c25">CCTV 3 Simpang Sambo</option>
-                                <option value="https://g3.ipcamlive.com/player/player.php?alias=6405abe3a9e26">CCTV 4 JL.SUDIRMAN / BRI</option>
-                                <option value="https://g3.ipcamlive.com/player/player.php?alias=6405acdab7613">CCTV 5 JL.MERDEKA / DEPAN BALAI KOTA</option>
+                                <option value="https://g3.ipcamlive.com/player/player.php?alias=640cc11f69e2e">CCTV 4 JL.SUDIRMAN / BRI</option>
+                                <option value="https://g3.ipcamlive.com/player/player.php?alias=640cc21e1d39f">CCTV 5 JL.MERDEKA / DEPAN BALAI KOTA</option>
                                 <option value="https://g3.ipcamlive.com/player/player.php?alias=640eaa699c267">CCTV 6 JL.MH. SITORUS</option>
                             </select>
                         </div>
