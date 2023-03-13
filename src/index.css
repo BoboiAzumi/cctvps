@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bgbrown {
+    width: 100%;
+    background-color: #D9D9D9;
+}
+
+.bgGray {
+    background-color: #D9D9D9;
+}
+
+.bgContainer{
+    background-color: #F9F9F9;
+}
+
+body{
+    margin: 0;
+    background-image: url("../public/img/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
